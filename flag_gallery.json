@@ -1,1 +1,1086 @@
-
+{
+    "name": "Flag Gallery",
+    "description": "\u6536\u96c6\u4e92\u8054\u7f51\u516c\u5f00\u56fe\u6807\u6587\u4ef6\uff0c\u7248\u6743\u5c5e\u4e8e\u539f\u4f5c\u8005\u548c\u5546\u6807\u6301\u6709\u4eba\u3002",
+    "icons": [
+        {
+            "name": "af.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/af.png"
+        },
+        {
+            "name": "ax.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ax.png"
+        },
+        {
+            "name": "al.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/al.png"
+        },
+        {
+            "name": "dz.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/dz.png"
+        },
+        {
+            "name": "as.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/as.png"
+        },
+        {
+            "name": "ad.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ad.png"
+        },
+        {
+            "name": "ao.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ao.png"
+        },
+        {
+            "name": "ai.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ai.png"
+        },
+        {
+            "name": "aq.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/aq.png"
+        },
+        {
+            "name": "ag.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ag.png"
+        },
+        {
+            "name": "ar.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ar.png"
+        },
+        {
+            "name": "am.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/am.png"
+        },
+        {
+            "name": "aw.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/aw.png"
+        },
+        {
+            "name": "sh-ac.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sh-ac.png"
+        },
+        {
+            "name": "au.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/au.png"
+        },
+        {
+            "name": "at.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/at.png"
+        },
+        {
+            "name": "az.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/az.png"
+        },
+        {
+            "name": "bs.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bs.png"
+        },
+        {
+            "name": "bh.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bh.png"
+        },
+        {
+            "name": "bd.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bd.png"
+        },
+        {
+            "name": "bb.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bb.png"
+        },
+        {
+            "name": "es-pv.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/es-pv.png"
+        },
+        {
+            "name": "by.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/by.png"
+        },
+        {
+            "name": "be.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/be.png"
+        },
+        {
+            "name": "bz.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bz.png"
+        },
+        {
+            "name": "bj.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bj.png"
+        },
+        {
+            "name": "bm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bm.png"
+        },
+        {
+            "name": "bt.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bt.png"
+        },
+        {
+            "name": "bo.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bo.png"
+        },
+        {
+            "name": "bq.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bq.png"
+        },
+        {
+            "name": "ba.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ba.png"
+        },
+        {
+            "name": "bw.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bw.png"
+        },
+        {
+            "name": "bv.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bv.png"
+        },
+        {
+            "name": "br.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/br.png"
+        },
+        {
+            "name": "io.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/io.png"
+        },
+        {
+            "name": "bn.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bn.png"
+        },
+        {
+            "name": "bg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bg.png"
+        },
+        {
+            "name": "bf.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bf.png"
+        },
+        {
+            "name": "bi.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bi.png"
+        },
+        {
+            "name": "cv.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cv.png"
+        },
+        {
+            "name": "kh.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/kh.png"
+        },
+        {
+            "name": "cm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cm.png"
+        },
+        {
+            "name": "ca.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ca.png"
+        },
+        {
+            "name": "ic.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ic.png"
+        },
+        {
+            "name": "es-ct.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/es-ct.png"
+        },
+        {
+            "name": "ky.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ky.png"
+        },
+        {
+            "name": "cf.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cf.png"
+        },
+        {
+            "name": "cefta.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cefta.png"
+        },
+        {
+            "name": "td.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/td.png"
+        },
+        {
+            "name": "cl.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cl.png"
+        },
+        {
+            "name": "cn.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cn.png"
+        },
+        {
+            "name": "cx.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cx.png"
+        },
+        {
+            "name": "cp.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cp.png"
+        },
+        {
+            "name": "cc.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cc.png"
+        },
+        {
+            "name": "co.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/co.png"
+        },
+        {
+            "name": "km.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/km.png"
+        },
+        {
+            "name": "ck.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ck.png"
+        },
+        {
+            "name": "cr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cr.png"
+        },
+        {
+            "name": "hr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/hr.png"
+        },
+        {
+            "name": "cu.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cu.png"
+        },
+        {
+            "name": "cw.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cw.png"
+        },
+        {
+            "name": "cy.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cy.png"
+        },
+        {
+            "name": "cz.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cz.png"
+        },
+        {
+            "name": "ci.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ci.png"
+        },
+        {
+            "name": "cd.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cd.png"
+        },
+        {
+            "name": "dk.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/dk.png"
+        },
+        {
+            "name": "dg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/dg.png"
+        },
+        {
+            "name": "dj.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/dj.png"
+        },
+        {
+            "name": "dm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/dm.png"
+        },
+        {
+            "name": "do.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/do.png"
+        },
+        {
+            "name": "eac.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/eac.png"
+        },
+        {
+            "name": "ec.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ec.png"
+        },
+        {
+            "name": "eg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/eg.png"
+        },
+        {
+            "name": "sv.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sv.png"
+        },
+        {
+            "name": "gb-eng.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gb-eng.png"
+        },
+        {
+            "name": "gq.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gq.png"
+        },
+        {
+            "name": "er.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/er.png"
+        },
+        {
+            "name": "ee.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ee.png"
+        },
+        {
+            "name": "sz.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sz.png"
+        },
+        {
+            "name": "et.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/et.png"
+        },
+        {
+            "name": "eu.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/eu.png"
+        },
+        {
+            "name": "fk.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/fk.png"
+        },
+        {
+            "name": "fo.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/fo.png"
+        },
+        {
+            "name": "fm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/fm.png"
+        },
+        {
+            "name": "fj.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/fj.png"
+        },
+        {
+            "name": "fi.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/fi.png"
+        },
+        {
+            "name": "fr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/fr.png"
+        },
+        {
+            "name": "gf.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gf.png"
+        },
+        {
+            "name": "pf.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pf.png"
+        },
+        {
+            "name": "tf.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tf.png"
+        },
+        {
+            "name": "ga.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ga.png"
+        },
+        {
+            "name": "es-ga.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/es-ga.png"
+        },
+        {
+            "name": "gm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gm.png"
+        },
+        {
+            "name": "ge.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ge.png"
+        },
+        {
+            "name": "de.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/de.png"
+        },
+        {
+            "name": "gh.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gh.png"
+        },
+        {
+            "name": "gi.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gi.png"
+        },
+        {
+            "name": "gr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gr.png"
+        },
+        {
+            "name": "gl.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gl.png"
+        },
+        {
+            "name": "gd.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gd.png"
+        },
+        {
+            "name": "gp.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gp.png"
+        },
+        {
+            "name": "gu.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gu.png"
+        },
+        {
+            "name": "gt.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gt.png"
+        },
+        {
+            "name": "gg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gg.png"
+        },
+        {
+            "name": "gn.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gn.png"
+        },
+        {
+            "name": "gw.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gw.png"
+        },
+        {
+            "name": "gy.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gy.png"
+        },
+        {
+            "name": "ht.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ht.png"
+        },
+        {
+            "name": "hm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/hm.png"
+        },
+        {
+            "name": "va.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/va.png"
+        },
+        {
+            "name": "hn.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/hn.png"
+        },
+        {
+            "name": "hk.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/hk.png"
+        },
+        {
+            "name": "hu.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/hu.png"
+        },
+        {
+            "name": "is.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/is.png"
+        },
+        {
+            "name": "in.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/in.png"
+        },
+        {
+            "name": "id.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/id.png"
+        },
+        {
+            "name": "ir.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ir.png"
+        },
+        {
+            "name": "iq.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/iq.png"
+        },
+        {
+            "name": "ie.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ie.png"
+        },
+        {
+            "name": "im.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/im.png"
+        },
+        {
+            "name": "il.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/il.png"
+        },
+        {
+            "name": "it.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/it.png"
+        },
+        {
+            "name": "jm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/jm.png"
+        },
+        {
+            "name": "jp.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/jp.png"
+        },
+        {
+            "name": "je.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/je.png"
+        },
+        {
+            "name": "jo.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/jo.png"
+        },
+        {
+            "name": "kz.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/kz.png"
+        },
+        {
+            "name": "ke.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ke.png"
+        },
+        {
+            "name": "ki.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ki.png"
+        },
+        {
+            "name": "xk.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/xk.png"
+        },
+        {
+            "name": "kw.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/kw.png"
+        },
+        {
+            "name": "kg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/kg.png"
+        },
+        {
+            "name": "la.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/la.png"
+        },
+        {
+            "name": "lv.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/lv.png"
+        },
+        {
+            "name": "arab.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/arab.png"
+        },
+        {
+            "name": "lb.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/lb.png"
+        },
+        {
+            "name": "ls.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ls.png"
+        },
+        {
+            "name": "lr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/lr.png"
+        },
+        {
+            "name": "ly.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ly.png"
+        },
+        {
+            "name": "li.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/li.png"
+        },
+        {
+            "name": "lt.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/lt.png"
+        },
+        {
+            "name": "lu.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/lu.png"
+        },
+        {
+            "name": "mo.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mo.png"
+        },
+        {
+            "name": "mg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mg.png"
+        },
+        {
+            "name": "mw.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mw.png"
+        },
+        {
+            "name": "my.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/my.png"
+        },
+        {
+            "name": "mv.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mv.png"
+        },
+        {
+            "name": "ml.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ml.png"
+        },
+        {
+            "name": "mt.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mt.png"
+        },
+        {
+            "name": "mh.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mh.png"
+        },
+        {
+            "name": "mq.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mq.png"
+        },
+        {
+            "name": "mr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mr.png"
+        },
+        {
+            "name": "mu.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mu.png"
+        },
+        {
+            "name": "yt.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/yt.png"
+        },
+        {
+            "name": "mx.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mx.png"
+        },
+        {
+            "name": "md.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/md.png"
+        },
+        {
+            "name": "mc.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mc.png"
+        },
+        {
+            "name": "mn.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mn.png"
+        },
+        {
+            "name": "me.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/me.png"
+        },
+        {
+            "name": "ms.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ms.png"
+        },
+        {
+            "name": "ma.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ma.png"
+        },
+        {
+            "name": "mz.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mz.png"
+        },
+        {
+            "name": "mm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mm.png"
+        },
+        {
+            "name": "na.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/na.png"
+        },
+        {
+            "name": "nr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/nr.png"
+        },
+        {
+            "name": "np.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/np.png"
+        },
+        {
+            "name": "nl.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/nl.png"
+        },
+        {
+            "name": "nc.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/nc.png"
+        },
+        {
+            "name": "nz.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/nz.png"
+        },
+        {
+            "name": "ni.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ni.png"
+        },
+        {
+            "name": "ne.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ne.png"
+        },
+        {
+            "name": "ng.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ng.png"
+        },
+        {
+            "name": "nu.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/nu.png"
+        },
+        {
+            "name": "nf.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/nf.png"
+        },
+        {
+            "name": "kp.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/kp.png"
+        },
+        {
+            "name": "mk.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mk.png"
+        },
+        {
+            "name": "gb-nir.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gb-nir.png"
+        },
+        {
+            "name": "mp.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mp.png"
+        },
+        {
+            "name": "no.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/no.png"
+        },
+        {
+            "name": "om.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/om.png"
+        },
+        {
+            "name": "pc.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pc.png"
+        },
+        {
+            "name": "pk.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pk.png"
+        },
+        {
+            "name": "pw.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pw.png"
+        },
+        {
+            "name": "pa.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pa.png"
+        },
+        {
+            "name": "pg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pg.png"
+        },
+        {
+            "name": "py.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/py.png"
+        },
+        {
+            "name": "pe.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pe.png"
+        },
+        {
+            "name": "ph.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ph.png"
+        },
+        {
+            "name": "pn.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pn.png"
+        },
+        {
+            "name": "pl.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pl.png"
+        },
+        {
+            "name": "pt.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pt.png"
+        },
+        {
+            "name": "pr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pr.png"
+        },
+        {
+            "name": "qa.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/qa.png"
+        },
+        {
+            "name": "cg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/cg.png"
+        },
+        {
+            "name": "ro.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ro.png"
+        },
+        {
+            "name": "ru.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ru.png"
+        },
+        {
+            "name": "rw.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/rw.png"
+        },
+        {
+            "name": "re.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/re.png"
+        },
+        {
+            "name": "bl.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/bl.png"
+        },
+        {
+            "name": "sh-hl.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sh-hl.png"
+        },
+        {
+            "name": "sh.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sh.png"
+        },
+        {
+            "name": "kn.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/kn.png"
+        },
+        {
+            "name": "lc.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/lc.png"
+        },
+        {
+            "name": "mf.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/mf.png"
+        },
+        {
+            "name": "pm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/pm.png"
+        },
+        {
+            "name": "vc.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/vc.png"
+        },
+        {
+            "name": "ws.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ws.png"
+        },
+        {
+            "name": "sm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sm.png"
+        },
+        {
+            "name": "st.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/st.png"
+        },
+        {
+            "name": "sa.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sa.png"
+        },
+        {
+            "name": "gb-sct.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gb-sct.png"
+        },
+        {
+            "name": "sn.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sn.png"
+        },
+        {
+            "name": "rs.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/rs.png"
+        },
+        {
+            "name": "sc.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sc.png"
+        },
+        {
+            "name": "sl.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sl.png"
+        },
+        {
+            "name": "sg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sg.png"
+        },
+        {
+            "name": "sx.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sx.png"
+        },
+        {
+            "name": "sk.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sk.png"
+        },
+        {
+            "name": "si.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/si.png"
+        },
+        {
+            "name": "sb.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sb.png"
+        },
+        {
+            "name": "so.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/so.png"
+        },
+        {
+            "name": "za.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/za.png"
+        },
+        {
+            "name": "gs.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gs.png"
+        },
+        {
+            "name": "kr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/kr.png"
+        },
+        {
+            "name": "ss.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ss.png"
+        },
+        {
+            "name": "es.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/es.png"
+        },
+        {
+            "name": "lk.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/lk.png"
+        },
+        {
+            "name": "ps.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ps.png"
+        },
+        {
+            "name": "sd.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sd.png"
+        },
+        {
+            "name": "sr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sr.png"
+        },
+        {
+            "name": "sj.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sj.png"
+        },
+        {
+            "name": "se.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/se.png"
+        },
+        {
+            "name": "ch.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ch.png"
+        },
+        {
+            "name": "sy.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sy.png"
+        },
+        {
+            "name": "tw.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tw.png"
+        },
+        {
+            "name": "tj.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tj.png"
+        },
+        {
+            "name": "tz.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tz.png"
+        },
+        {
+            "name": "th.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/th.png"
+        },
+        {
+            "name": "tl.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tl.png"
+        },
+        {
+            "name": "tg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tg.png"
+        },
+        {
+            "name": "tk.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tk.png"
+        },
+        {
+            "name": "to.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/to.png"
+        },
+        {
+            "name": "tt.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tt.png"
+        },
+        {
+            "name": "sh-ta.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/sh-ta.png"
+        },
+        {
+            "name": "tn.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tn.png"
+        },
+        {
+            "name": "tm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tm.png"
+        },
+        {
+            "name": "tc.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tc.png"
+        },
+        {
+            "name": "tv.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tv.png"
+        },
+        {
+            "name": "tr.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/tr.png"
+        },
+        {
+            "name": "ug.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ug.png"
+        },
+        {
+            "name": "ua.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ua.png"
+        },
+        {
+            "name": "ae.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ae.png"
+        },
+        {
+            "name": "gb.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gb.png"
+        },
+        {
+            "name": "un.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/un.png"
+        },
+        {
+            "name": "um.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/um.png"
+        },
+        {
+            "name": "us.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/us.png"
+        },
+        {
+            "name": "xx.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/xx.png"
+        },
+        {
+            "name": "uy.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/uy.png"
+        },
+        {
+            "name": "uz.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/uz.png"
+        },
+        {
+            "name": "vu.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/vu.png"
+        },
+        {
+            "name": "ve.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ve.png"
+        },
+        {
+            "name": "vn.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/vn.png"
+        },
+        {
+            "name": "vg.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/vg.png"
+        },
+        {
+            "name": "vi.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/vi.png"
+        },
+        {
+            "name": "gb-wls.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/gb-wls.png"
+        },
+        {
+            "name": "wf.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/wf.png"
+        },
+        {
+            "name": "eh.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/eh.png"
+        },
+        {
+            "name": "ye.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/ye.png"
+        },
+        {
+            "name": "zm.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/zm.png"
+        },
+        {
+            "name": "zw.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/flags/zw.png"
+        }
+    ]
+}
