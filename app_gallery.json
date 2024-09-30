@@ -5,6 +5,10 @@
         {
             "name": "TVer.png",
             "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/TVer.png"
+        },
+        {
+            "name": "OpenAi.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/OpenAi.png"
         }
     ]
 }
