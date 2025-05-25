@@ -13,6 +13,10 @@
         {
             "name": "TMDB.png",
             "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/TMDB.png"
+        },
+        {
+            "name": "Mikan.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/Mikan.png"
         }
     ]
 }
