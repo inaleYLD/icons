@@ -9,6 +9,10 @@
         {
             "name": "OpenAi.png",
             "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/OpenAi.png"
+        },
+        {
+            "name": "TMDB.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/TMDB.png"
         }
     ]
 }
