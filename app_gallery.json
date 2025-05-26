@@ -17,6 +17,14 @@
         {
             "name": "Mikan.png",
             "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/Mikan.png"
+        },
+        {
+            "name": "Bangumi.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/Bangumi.png"
+        },
+        {
+            "name": "Douban.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/Douban.png"
         }
     ]
 }
