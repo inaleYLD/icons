@@ -25,6 +25,30 @@
         {
             "name": "Douban.png",
             "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/Douban.png"
+        },
+        {
+            "name": "BOC.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/BOC.png"
+        },
+        {
+            "name": "CCB.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/CCB.png"
+        },
+        {
+            "name": "Microsoft.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/Microsoft.png"
+        },
+        {
+            "name": "Wikipedia.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/Wikipedia.png"
+        },
+        {
+            "name": "XiaoMi.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/XiaoMi.png"
+        },
+        {
+            "name": "X.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/X.png"
         }
     ]
 }
