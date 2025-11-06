@@ -53,6 +53,14 @@
         {
             "name": "Copilot.png",
             "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/Copilot.png"
+        },
+        {
+            "name": "Alipay.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/Alipay.png"
+        },
+        {
+            "name": "AppleMusic.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/AppleMusic.png"
         }
     ]
 }
