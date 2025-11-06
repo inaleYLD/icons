@@ -61,6 +61,10 @@
         {
             "name": "AppleMusic.png",
             "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/AppleMusic.png"
+        },
+        {
+            "name": "WestData.png",
+            "url": "https://raw.githubusercontent.com/inaleYLD/icons/refs/heads/main/app/WestData.png"
         }
     ]
 }
